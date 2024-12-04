@@ -1,5 +1,5 @@
 # Data-Analysis-Group-Project
-# README: BDA Report on Olympic Medal Analysis
+# BDA Report on Olympic Medal Analysis
 
 ## Summary
 This report analyzes the relationship between athletes' age, nationality, and Olympic medal awards using the Paris 2024 dataset. It identifies key factors influencing medal distribution and predicts future medal counts for the 2028 Los Angeles Olympics using machine learning models.
